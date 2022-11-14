@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasIntentScore</string>
+    <string name="skor_langsung">Skor Langsung</string>
+    <string name="home_team">Home Team</string>
+    <string name="away_team">Away Team</string>
+    <string name="next">Next</string>
+    <string name="todo">TODO</string>
+</resources>
